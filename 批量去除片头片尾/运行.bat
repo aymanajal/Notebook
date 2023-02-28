@@ -1,0 +1,1 @@
+python D:\deleteAD\deleteAD.py
